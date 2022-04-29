@@ -1,0 +1,52 @@
+.card-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  max-width: 770px;
+  margin: 46px 28px;
+}
+
+.picture-container  {
+  margin-right: 32px;
+}
+
+.picture-container img {
+  height: auto;
+  width: 100%;
+  margin-right: 260px;
+  border-radius: 16px;
+}
+
+.location-icon {
+  height: auto;
+  width: 25px;
+  margin-right: 6px;
+  margin-bottom: -5px;
+}
+
+.card--location {
+  font-size: 18px;
+  margin-right: 8px;
+}
+
+.card--mapsUrl {
+  font-size: 18px;
+  text-decoration: underline;
+  color: #918E9B;
+}
+
+.card--title {
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.card--date {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.card--description {
+  font-size: 16px;
+  color: #2B283A;
+}
