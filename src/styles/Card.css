@@ -8,12 +8,13 @@
 }
 
 .picture-container  {
-  margin-right: 32px;
+  margin-right: 0px;
+  min-width: 48%;
 }
 
 .picture-container img {
   height: auto;
-  width: 100%;
+  width: 80%;
   margin-right: 260px;
   border-radius: 16px;
 }
