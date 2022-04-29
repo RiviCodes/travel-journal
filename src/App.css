@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+hr {
+  width: 80vw;
+  border: 1px solid #e6e6e6;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
